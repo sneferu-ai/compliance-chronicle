@@ -1,0 +1,12 @@
+{
+  "schema": "compliance_chronicle.curation/v1",
+  "issue_number": 2,
+  "period_label": "2026-09",
+  "publish_date": "2026-10-01",
+  "intro": "This is what a quiet month looks like: a clear no-material-changes confirmation, the search log that backs it, and the deadlines coming up. Silence is never the product — evidence is.",
+  "quiet_month": true,
+  "verification_failure_declared": false,
+  "overrides": {},
+  "extra_search_log": [],
+  "extra_calendar": []
+}

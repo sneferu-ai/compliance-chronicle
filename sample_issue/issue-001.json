@@ -1,0 +1,110 @@
+{
+  "calendar": [
+    {
+      "deadline": "2026-10-01",
+      "label": "Quarterly farmers-market vendor fee (example county) \u2014 confirm with your market",
+      "url": ""
+    },
+    {
+      "deadline": "2026-11-30",
+      "label": "Food-handler training certificate renewal window (check your own issue date)",
+      "url": "https://www.dshs.texas.gov/food-handler-training"
+    }
+  ],
+  "disclaimer": "The Compliance Chronicle is an information service, not a law firm. Nothing in this issue is legal advice, and reading it does not create an attorney-client relationship. Plain-English summaries are provided for general awareness; the cited source text governs. For advice about your specific situation, consult a licensed Texas attorney.",
+  "intro": "Welcome to the first issue. This is the sample issue: it demonstrates the format \u2014 every item either carries an exact citation and source link or is marked as unverified, with a verification ledger at the end. Nothing here is legal advice.",
+  "issue_number": 1,
+  "items": [
+    {
+      "action": {
+        "deadline": "2026-10-01",
+        "description": "Confirm the label on every product you sell still carries the statements Chapter 437 requires, including your home address and the 'not inspected' statement.",
+        "portal_url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+      },
+      "citation": {
+        "accessed": "2026-08-28",
+        "publisher": "Texas Statutes (capitol.texas.gov)",
+        "reference": "Tex. Health & Safety Code ch. 437",
+        "source_class": "state_statute",
+        "url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+      },
+      "effective_date": null,
+      "item_id": "CLM-001",
+      "status": "verified",
+      "summary": "No change to the law itself this month \u2014 but the statute is the floor everything else stands on, so we re-read it every cycle. Chapter 437 of the Health & Safety Code is what allows you to sell specific homemade foods from home. It sets the allowed-food list, the annual gross-income cap, and the exact statements your labels must carry.",
+      "title": "Governing statute re-verified: Texas Cottage Food Law (Health & Safety Code ch. 437)",
+      "unverified_reason": ""
+    },
+    {
+      "action": {
+        "deadline": "2026-10-15",
+        "description": "Review the DSHS cottage food page and confirm your food-handler training certificate is current.",
+        "portal_url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry"
+      },
+      "citation": {
+        "accessed": "2026-08-28",
+        "publisher": "Texas Department of State Health Services",
+        "reference": "25 Tex. Admin. Code \u00a7 229.661",
+        "source_class": "state_agency_guidance",
+        "url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry"
+      },
+      "effective_date": null,
+      "item_id": "CLM-002",
+      "status": "verified",
+      "summary": "No rule change this month. The DSHS rule (25 TAC \u00a7 229.661) is the agency's operating detail under the statute \u2014 food-handler training, labeling specifics, and how the sales cap is administered. We re-check it every cycle so you do not have to.",
+      "title": "DSHS cottage food rule re-verified: 25 TAC \u00a7 229.661",
+      "unverified_reason": ""
+    },
+    {
+      "action": null,
+      "citation": {
+        "accessed": "2026-08-27",
+        "publisher": "community group post",
+        "reference": "",
+        "source_class": "secondary_press",
+        "url": ""
+      },
+      "effective_date": null,
+      "item_id": "CLM-003",
+      "status": "unverified",
+      "summary": "A post circulating in a Texas homemade-food community group claims DSHS will raise certain food-manufacturer fees in the fall.",
+      "title": "Community rumor: possible DSHS fee-schedule update for food manufacturers",
+      "unverified_reason": "We could not verify: Community rumor: possible DSHS fee-schedule update for food manufacturers. No authoritative source with an exact citation was found for this claim in this month's sweep."
+    }
+  ],
+  "period_label": "2026-08",
+  "publish_date": "2026-09-01",
+  "quiet_month": false,
+  "schema": "compliance_chronicle.issue/v1",
+  "search_log": [
+    {
+      "checked_at": "2026-08-28",
+      "result": "current text re-read; no amendment posted this period",
+      "source_class": "state_statute",
+      "source_name": "Texas Statutes \u2014 Health & Safety Code ch. 437",
+      "source_url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+    },
+    {
+      "checked_at": "2026-08-28",
+      "result": "no rule change posted this period",
+      "source_class": "state_admin_code",
+      "source_name": "Texas Administrative Code \u2014 25 TAC \u00a7 229.661",
+      "source_url": "https://texas.gov/"
+    },
+    {
+      "checked_at": "2026-08-28",
+      "result": "guidance re-read; no new guidance this period",
+      "source_class": "state_agency_guidance",
+      "source_name": "DSHS Cottage Food Industry page",
+      "source_url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry"
+    },
+    {
+      "checked_at": "2026-08-28",
+      "result": "no fee-schedule update located; community rumor could not be confirmed",
+      "source_class": "fee_schedule",
+      "source_name": "DSHS fee schedules",
+      "source_url": "https://www.dshs.texas.gov/"
+    }
+  ],
+  "verification_failure_declared": false
+}

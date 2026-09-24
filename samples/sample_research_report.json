@@ -1,0 +1,99 @@
+{
+  "schema": "compliance_chronicle.research-report/v1",
+  "run_id": "SAMPLE-PREVIEW-RUN (demonstration fixture, not a live research run)",
+  "generated_at": "2026-08-30",
+  "claims": [
+    {
+      "id": "CLM-001",
+      "title": "Governing statute re-verified: Texas Cottage Food Law (Health & Safety Code ch. 437)",
+      "summary": "The statute that authorizes cottage food production operations in Texas remains Chapter 437 of the Health and Safety Code. The current text was re-read this cycle; it continues to define allowed foods, the annual gross-income cap, and the labeling statements every cottage food product must carry.",
+      "citation": {
+        "reference": "Tex. Health & Safety Code ch. 437",
+        "url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm",
+        "source_class": "state_statute",
+        "publisher": "Texas Statutes (capitol.texas.gov)",
+        "accessed": "2026-08-28"
+      },
+      "action": {
+        "description": "Confirm the label on every product you sell still carries the statements Chapter 437 requires, including your home address and the 'not inspected' statement.",
+        "deadline": "2026-10-01",
+        "portal_url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+      },
+      "effective_date": null
+    },
+    {
+      "id": "CLM-002",
+      "title": "DSHS cottage food rule re-verified: 25 TAC § 229.661",
+      "summary": "The Department of State Health Services rule for cottage food production operations (25 TAC § 229.661) remains the operative rule. It covers food-handler training expectations, labeling detail, and the sales cap administration.",
+      "citation": {
+        "reference": "25 Tex. Admin. Code § 229.661",
+        "url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry",
+        "source_class": "state_agency_guidance",
+        "publisher": "Texas Department of State Health Services",
+        "accessed": "2026-08-28"
+      },
+      "action": {
+        "description": "Review the DSHS cottage food page and confirm your food-handler training certificate is current.",
+        "deadline": "2026-10-15",
+        "portal_url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry"
+      },
+      "effective_date": null
+    },
+    {
+      "id": "CLM-003",
+      "title": "Community rumor: possible DSHS fee-schedule update for food manufacturers",
+      "summary": "A post circulating in a Texas homemade-food community group claims DSHS will raise certain food-manufacturer fees in the fall.",
+      "citation": {
+        "reference": "",
+        "url": "",
+        "source_class": "secondary_press",
+        "publisher": "community group post",
+        "accessed": "2026-08-27"
+      },
+      "action": null,
+      "effective_date": null
+    }
+  ],
+  "search_log": [
+    {
+      "source_name": "Texas Statutes — Health & Safety Code ch. 437",
+      "source_class": "state_statute",
+      "checked_at": "2026-08-28",
+      "source_url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm",
+      "result": "current text re-read; no amendment posted this period"
+    },
+    {
+      "source_name": "Texas Administrative Code — 25 TAC § 229.661",
+      "source_class": "state_admin_code",
+      "checked_at": "2026-08-28",
+      "source_url": "https://texas.gov/",
+      "result": "no rule change posted this period"
+    },
+    {
+      "source_name": "DSHS Cottage Food Industry page",
+      "source_class": "state_agency_guidance",
+      "checked_at": "2026-08-28",
+      "source_url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry",
+      "result": "guidance re-read; no new guidance this period"
+    },
+    {
+      "source_name": "DSHS fee schedules",
+      "source_class": "fee_schedule",
+      "checked_at": "2026-08-28",
+      "source_url": "https://www.dshs.texas.gov/",
+      "result": "no fee-schedule update located; community rumor could not be confirmed"
+    }
+  ],
+  "calendar": [
+    {
+      "label": "Quarterly farmers-market vendor fee (example county) — confirm with your market",
+      "deadline": "2026-10-01",
+      "url": ""
+    },
+    {
+      "label": "Food-handler training certificate renewal window (check your own issue date)",
+      "deadline": "2026-11-30",
+      "url": "https://www.dshs.texas.gov/food-handler-training"
+    }
+  ]
+}

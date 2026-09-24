@@ -1,0 +1,48 @@
+{
+  "schema": "compliance_chronicle.research-report/v1",
+  "run_id": "SAMPLE-QUIET-RUN (demonstration fixture, not a live research run)",
+  "generated_at": "2026-09-30",
+  "claims": [],
+  "search_log": [
+    {
+      "source_name": "Texas Statutes — Health & Safety Code ch. 437",
+      "source_class": "state_statute",
+      "checked_at": "2026-09-28",
+      "source_url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm",
+      "result": "no amendment posted this period"
+    },
+    {
+      "source_name": "Texas Administrative Code — 25 TAC § 229.661",
+      "source_class": "state_admin_code",
+      "checked_at": "2026-09-28",
+      "source_url": "https://texas.gov/",
+      "result": "no rule change posted this period"
+    },
+    {
+      "source_name": "DSHS Cottage Food Industry page",
+      "source_class": "state_agency_guidance",
+      "checked_at": "2026-09-29",
+      "source_url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry",
+      "result": "no new guidance this period"
+    },
+    {
+      "source_name": "DSHS fee schedules",
+      "source_class": "fee_schedule",
+      "checked_at": "2026-09-29",
+      "source_url": "https://www.dshs.texas.gov/",
+      "result": "no fee-schedule update posted this period"
+    }
+  ],
+  "calendar": [
+    {
+      "label": "Food-handler training certificate renewal window (check your own issue date)",
+      "deadline": "2026-11-30",
+      "url": "https://www.dshs.texas.gov/food-handler-training"
+    },
+    {
+      "label": "Annual gross-income cap tally checkpoint (Chapter 437 cap applies per calendar year)",
+      "deadline": "2026-12-31",
+      "url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+    }
+  ]
+}

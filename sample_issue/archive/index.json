@@ -1,0 +1,22 @@
+{
+  "generated": "2026-08-11",
+  "issues": [
+    {
+      "file": "issue-001.pdf",
+      "issue_number": 1,
+      "items": 3,
+      "period_label": "2026-08",
+      "publish_date": "2026-09-01",
+      "quiet_month": false
+    },
+    {
+      "file": "issue-002.pdf",
+      "issue_number": 2,
+      "items": 0,
+      "period_label": "2026-09",
+      "publish_date": "2026-10-01",
+      "quiet_month": true
+    }
+  ],
+  "schema": "compliance_chronicle.archive/v1"
+}

@@ -1,0 +1,19 @@
+{
+  "schema": "compliance_chronicle.curation/v1",
+  "issue_number": 1,
+  "period_label": "2026-08",
+  "publish_date": "2026-09-01",
+  "intro": "Welcome to the first issue. This is the sample issue: it demonstrates the format — every item either carries an exact citation and source link or is marked as unverified, with a verification ledger at the end. Nothing here is legal advice.",
+  "quiet_month": false,
+  "verification_failure_declared": false,
+  "overrides": {
+    "CLM-001": {
+      "summary": "No change to the law itself this month — but the statute is the floor everything else stands on, so we re-read it every cycle. Chapter 437 of the Health & Safety Code is what allows you to sell specific homemade foods from home. It sets the allowed-food list, the annual gross-income cap, and the exact statements your labels must carry."
+    },
+    "CLM-002": {
+      "summary": "No rule change this month. The DSHS rule (25 TAC § 229.661) is the agency's operating detail under the statute — food-handler training, labeling specifics, and how the sales cap is administered. We re-check it every cycle so you do not have to."
+    }
+  },
+  "extra_search_log": [],
+  "extra_calendar": []
+}

@@ -1,0 +1,53 @@
+{
+  "calendar": [
+    {
+      "deadline": "2026-11-30",
+      "label": "Food-handler training certificate renewal window (check your own issue date)",
+      "url": "https://www.dshs.texas.gov/food-handler-training"
+    },
+    {
+      "deadline": "2026-12-31",
+      "label": "Annual gross-income cap tally checkpoint (Chapter 437 cap applies per calendar year)",
+      "url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+    }
+  ],
+  "disclaimer": "The Compliance Chronicle is an information service, not a law firm. Nothing in this issue is legal advice, and reading it does not create an attorney-client relationship. Plain-English summaries are provided for general awareness; the cited source text governs. For advice about your specific situation, consult a licensed Texas attorney.",
+  "intro": "This is what a quiet month looks like: a clear no-material-changes confirmation, the search log that backs it, and the deadlines coming up. Silence is never the product \u2014 evidence is.",
+  "issue_number": 2,
+  "items": [],
+  "period_label": "2026-09",
+  "publish_date": "2026-10-01",
+  "quiet_month": true,
+  "schema": "compliance_chronicle.issue/v1",
+  "search_log": [
+    {
+      "checked_at": "2026-09-28",
+      "result": "no amendment posted this period",
+      "source_class": "state_statute",
+      "source_name": "Texas Statutes \u2014 Health & Safety Code ch. 437",
+      "source_url": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.437.htm"
+    },
+    {
+      "checked_at": "2026-09-28",
+      "result": "no rule change posted this period",
+      "source_class": "state_admin_code",
+      "source_name": "Texas Administrative Code \u2014 25 TAC \u00a7 229.661",
+      "source_url": "https://texas.gov/"
+    },
+    {
+      "checked_at": "2026-09-29",
+      "result": "no new guidance this period",
+      "source_class": "state_agency_guidance",
+      "source_name": "DSHS Cottage Food Industry page",
+      "source_url": "https://www.dshs.texas.gov/food-manufacturers-wholesalers/cottage-food-industry"
+    },
+    {
+      "checked_at": "2026-09-29",
+      "result": "no fee-schedule update posted this period",
+      "source_class": "fee_schedule",
+      "source_name": "DSHS fee schedules",
+      "source_url": "https://www.dshs.texas.gov/"
+    }
+  ],
+  "verification_failure_declared": false
+}
