@@ -1,6 +1,7 @@
 <div align="center">
 
-# The Compliance Chronicle
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/69ee5308-7e90-42df-be66-aa63ab269be1" />
+
 
 **A monthly regulatory briefing for Texas cottage-food operators, where every claim is either cited or marked unverified.**
 
